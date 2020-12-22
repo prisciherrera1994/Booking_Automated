@@ -1,4 +1,4 @@
-# KneatTests
+# Booking Selenium Automated Test
 
 # Prerequisites -----------------------
 ** Visual Studio 2019
